@@ -19,5 +19,6 @@ public class App {
         System.out.println(bean==bean1);
         System.out.println(cat==cat1);
         System.out.println(bean.getMessage());
+        System.out.println(cat.getMessage());
     }
 }
